@@ -1,0 +1,15 @@
+/home/webstin/Desktop/university-studing/csharp/lab3csharp25-Alexandr-Zaburyannyi/bin/Debug/net9.0/lab3csharp25-Alexandr-Zaburyannyi
+/home/webstin/Desktop/university-studing/csharp/lab3csharp25-Alexandr-Zaburyannyi/bin/Debug/net9.0/lab3csharp25-Alexandr-Zaburyannyi.deps.json
+/home/webstin/Desktop/university-studing/csharp/lab3csharp25-Alexandr-Zaburyannyi/bin/Debug/net9.0/lab3csharp25-Alexandr-Zaburyannyi.runtimeconfig.json
+/home/webstin/Desktop/university-studing/csharp/lab3csharp25-Alexandr-Zaburyannyi/bin/Debug/net9.0/lab3csharp25-Alexandr-Zaburyannyi.dll
+/home/webstin/Desktop/university-studing/csharp/lab3csharp25-Alexandr-Zaburyannyi/bin/Debug/net9.0/lab3csharp25-Alexandr-Zaburyannyi.pdb
+/home/webstin/Desktop/university-studing/csharp/lab3csharp25-Alexandr-Zaburyannyi/obj/Debug/net9.0/lab3csharp25-Alexandr-Zaburyannyi.GeneratedMSBuildEditorConfig.editorconfig
+/home/webstin/Desktop/university-studing/csharp/lab3csharp25-Alexandr-Zaburyannyi/obj/Debug/net9.0/lab3csharp25-Alexandr-Zaburyannyi.AssemblyInfoInputs.cache
+/home/webstin/Desktop/university-studing/csharp/lab3csharp25-Alexandr-Zaburyannyi/obj/Debug/net9.0/lab3csharp25-Alexandr-Zaburyannyi.AssemblyInfo.cs
+/home/webstin/Desktop/university-studing/csharp/lab3csharp25-Alexandr-Zaburyannyi/obj/Debug/net9.0/lab3csharp25-Alexandr-Zaburyannyi.csproj.CoreCompileInputs.cache
+/home/webstin/Desktop/university-studing/csharp/lab3csharp25-Alexandr-Zaburyannyi/obj/Debug/net9.0/lab3csharp25-Alexandr-Zaburyannyi.sourcelink.json
+/home/webstin/Desktop/university-studing/csharp/lab3csharp25-Alexandr-Zaburyannyi/obj/Debug/net9.0/lab3csharp25-Alexandr-Zaburyannyi.dll
+/home/webstin/Desktop/university-studing/csharp/lab3csharp25-Alexandr-Zaburyannyi/obj/Debug/net9.0/refint/lab3csharp25-Alexandr-Zaburyannyi.dll
+/home/webstin/Desktop/university-studing/csharp/lab3csharp25-Alexandr-Zaburyannyi/obj/Debug/net9.0/lab3csharp25-Alexandr-Zaburyannyi.pdb
+/home/webstin/Desktop/university-studing/csharp/lab3csharp25-Alexandr-Zaburyannyi/obj/Debug/net9.0/lab3csharp25-Alexandr-Zaburyannyi.genruntimeconfig.cache
+/home/webstin/Desktop/university-studing/csharp/lab3csharp25-Alexandr-Zaburyannyi/obj/Debug/net9.0/ref/lab3csharp25-Alexandr-Zaburyannyi.dll
